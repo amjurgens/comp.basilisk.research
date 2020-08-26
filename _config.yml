@@ -21,7 +21,7 @@
 title: comp.basilisk.research
 email: amjurgens@ucdavis.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  a research blog 
+  a "research" blog 
 baseurl: "/comp.basilisk.research" # the subpath of your site, e.g. /blog
 url: "https://amjurgens.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: amjurgens
